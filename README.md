@@ -61,7 +61,7 @@ yarn add react-poop
 
 ```
 import React from 'react';
-import { ToastWrapper, toast } from 'react-poop';
+import ToastWrapper, { toast } from 'react-poop';
 
 const App = () => {
   const handleButtonClick = () => {
