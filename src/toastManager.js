@@ -14,11 +14,24 @@ export const toastManager = {
 };
 
 export const toast = {
-  trigger: ({ description, imagePath, title, time }) => {
+  trigger: ({
+    description,
+    imagePath,
+    imageClass,
+    titleClass,
+    descriptionClass,
+    containerClass,
+    title,
+    time,
+  }) => {
     toastManager.addToast({
       title,
       time,
       description,
+      imageClass,
+      titleClass,
+      descriptionClass,
+      containerClass,
       imagePath,
     });
   },

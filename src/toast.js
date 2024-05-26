@@ -29,14 +29,24 @@ const Toast = ({ toasts, settoasts, position }) => {
     <div className={`container ${position ?? "top-right"}`}>
       {toasts.map((tst, i) => (
         <div
-          className={`notification toast ${position ?? "top-right"}`}
+          className={`notification ${tst.containerClass} toast ${
+            position ?? "top-right"
+          }`}
           key={i}
         >
           <div className="content">
-            {tst.imagePath && <img alt="snackbar" src={tst.imagePath} />}
+            {tst.imagePath && (
+              <img
+                className={tst.imageClass}
+                alt="snackbar"
+                src={tst.imagePath}
+              />
+            )}
             <div>
-              <p className="title">{tst.title}</p>
-              <p className="description">{tst.description}</p>
+              <p className={`${tst.titleClass} title`}>{tst.title}</p>
+              <p className={`${tst.descriptionClass} description`}>
+                {tst.description}
+              </p>
             </div>
           </div>
           <p className="time">{tst.time}</p>
