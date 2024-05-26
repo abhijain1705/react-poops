@@ -7,7 +7,7 @@ React PoopUp is not just another notification library; it's your ultimate tool t
 
 ## Demo
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](/demo.mp4)
+![Demo](/demo.gif)
 
 ## What is a React Poops?
 
