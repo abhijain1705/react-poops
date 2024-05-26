@@ -7,7 +7,7 @@ React Marketing PoopUp is not just another notification library; it's your ultim
 
 ## Demo
 
-![demo](https://github.com/abhijain1705/react-marketing-poops/assets/137091099/3c6e0707-88b7-4f89-8e5d-8a4a9c45f066)
+![demo](https://github.com/abhijain1705/react-poops/assets/137091099/02647a4f-4680-4930-93f4-6a31a12947cb)
 
 ## What is a React Marketing Poops?
 
