@@ -1,15 +1,15 @@
-# React Poops
+# React Marketing Poops
 
 [![npm version](https://img.shields.io/npm/v/YOUR_PACKAGE_NAME.svg)](https://www.npmjs.com/package/cc-aveunue-non-seamless-node)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/YOUR_USERNAME/YOUR_PACKAGE_NAME/blob/main/LICENSE)
 
-React PoopUp is not just another notification library; it's your ultimate tool to turn visitors into customers 🤑. Say goodbye to missed opportunities and hello to skyrocketing conversions with impactful and attention-grabbing PoopUp notifications!
+React Marketing PoopUp is not just another notification library; it's your ultimate tool to turn visitors into customers 🤑. Say goodbye to missed opportunities and hello to skyrocketing conversions with impactful and attention-grabbing PoopUp notifications!
 
 ## Demo
 
-![demo](https://github.com/abhijain1705/react-poops/assets/137091099/3c6e0707-88b7-4f89-8e5d-8a4a9c45f066)
+![demo](https://github.com/abhijain1705/react-marketing-poops/assets/137091099/3c6e0707-88b7-4f89-8e5d-8a4a9c45f066)
 
-## What is a React Poops?
+## What is a React Marketing Poops?
 
 PoopUp notifications are more than just messages; they're wake-up calls for your website visitors. By confronting them with the harsh realities of their pain points, PoopUps drive engagement and conversions like never before. With React PoopUp, you have the power to create PoopUps that deliver results!
 
@@ -46,14 +46,14 @@ Before using this module, please make sure you have your merchant_id and working
 You can install the package via npm:
 
 ```
-npm install react-poopup
+npm install react-marketing-poopup
 
 ```
 
 or
 
 ```
-yarn add react-poopup
+yarn add react-marketing-poopup
 
 ```
 
@@ -61,7 +61,7 @@ yarn add react-poopup
 
 ```
 import React from 'react';
-import { ToastWrapper, toast } from 'react-poopup';
+import { ToastWrapper, toast } from 'react-marketing-poopup';
 
 const App = () => {
   const handleButtonClick = () => {
