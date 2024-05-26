@@ -1,7 +1,7 @@
 # React Marketing Poops
 
-[![npm version](https://img.shields.io/npm/v/YOUR_PACKAGE_NAME.svg)](https://www.npmjs.com/package/cc-aveunue-non-seamless-node)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/YOUR_USERNAME/YOUR_PACKAGE_NAME/blob/main/LICENSE)
+[![npm version](https://img.shields.io/npm/v/YOUR_PACKAGE_NAME.svg)](https://www.npmjs.com/package/react-marketing-poop)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/abhi1705/react-marketing-poop/blob/main/LICENSE)
 
 React Marketing PoopUp is not just another notification library; it's your ultimate tool to turn visitors into customers 🤑. Say goodbye to missed opportunities and hello to skyrocketing conversions with impactful and attention-grabbing PoopUp notifications!
 
