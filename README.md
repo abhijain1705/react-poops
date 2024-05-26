@@ -46,14 +46,14 @@ Before using this module, please make sure you have your merchant_id and working
 You can install the package via npm:
 
 ```
-npm install react-poopup
+npm install react-poop
 
 ```
 
 or
 
 ```
-yarn add react-poopup
+yarn add react-poop
 
 ```
 
@@ -61,7 +61,7 @@ yarn add react-poopup
 
 ```
 import React from 'react';
-import { ToastWrapper, toast } from 'react-poopup';
+import { ToastWrapper, toast } from 'react-poop';
 
 const App = () => {
   const handleButtonClick = () => {
