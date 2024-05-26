@@ -61,7 +61,7 @@ yarn add toasti-poop
 
 ```
 import React from 'react';
-import { ToastWrapper, toast } from 'toasti-poop';
+import ToastWrapper, {  toast } from 'toasti-poop';
 
 const App = () => {
   const handleButtonClick = () => {
@@ -69,6 +69,10 @@ const App = () => {
       imagePath: "/twitter.png",
       title: 'Limited Time Offer!',
       description: 'Get 20% off on all purchases today only. Don\'t miss out!',
+      imageClass:"",
+      titleClass:"",
+      descriptionClass:"",
+      containerClass:"",
       time: '2h',
     });
   };
